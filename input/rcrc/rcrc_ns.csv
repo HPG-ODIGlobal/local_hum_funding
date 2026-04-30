@@ -1,0 +1,644 @@
+﻿year,destination_org,country,iso3,source_org_type,funding_level,amountUSD,data_source
+2016,Afghan Red Crescent,Afghanistan,AFG,Foreign Governments,Direct,1447533.245,IFRC Network Databank
+2018,Afghan Red Crescent,Afghanistan,AFG,Foreign Governments,Direct,1461371.306,IFRC Network Databank
+2020,Afghan Red Crescent,Afghanistan,AFG,Foreign Governments,Direct,527825.3461,IFRC Network Databank
+2022,Afghan Red Crescent,Afghanistan,AFG,Foreign Governments,Direct,789565.3085,IFRC Network Databank
+2022,Burkinabe Red Cross Society,Burkina Faso,BFA,Foreign Governments,Direct,1026559.129,IFRC Network Databank
+2016,Burundi Red Cross,Burundi,BDI,Foreign Governments,Direct,2982530.708,IFRC Network Databank
+2017,Burundi Red Cross,Burundi,BDI,Foreign Governments,Direct,5826426.323,IFRC Network Databank
+2018,Burundi Red Cross,Burundi,BDI,Foreign Governments,Direct,3023168.013,IFRC Network Databank
+2019,Burundi Red Cross,Burundi,BDI,Foreign Governments,Direct,4562861.743,IFRC Network Databank
+2021,Burundi Red Cross,Burundi,BDI,Foreign Governments,Direct,1539871.991,IFRC Network Databank
+2022,Burundi Red Cross,Burundi,BDI,Foreign Governments,Direct,2880670.368,IFRC Network Databank
+2024,Burundi Red Cross,Burundi,BDI,Foreign Governments,Direct,151860.3066,IFRC Network Databank
+2017,Central African Red Cross Society,Central African Republic,CAF,Foreign Governments,Direct,488890.0173,IFRC Network Databank
+2018,Central African Red Cross Society,Central African Republic,CAF,Foreign Governments,Direct,351365.1703,IFRC Network Databank
+2022,Cameroon Red Cross Society,Cameroon,CMR,Foreign Governments,Direct,735598.6174,IFRC Network Databank
+2021,Colombian Red Cross Society,Colombia,COL,Foreign Governments,Direct,461158.6433,IFRC Network Databank
+2022,Colombian Red Cross Society,Colombia,COL,Foreign Governments,Direct,962067.6652,IFRC Network Databank
+2023,Colombian Red Cross Society,Colombia,COL,Foreign Governments,Direct,109986.6444,IFRC Network Databank
+2024,Colombian Red Cross Society,Colombia,COL,Foreign Governments,Direct,218700.7382,IFRC Network Databank
+2021,Ethiopian Red Cross Society,Ethiopia,ETH,Foreign Governments,Direct,621226.477,IFRC Network Databank
+2022,Guatemalan Red Cross,Guatemala,GTM,Foreign Governments,Direct,362840.6829,IFRC Network Databank
+2016,Honduran Red Cross,Honduras,HND,Foreign Governments,Direct,69666.02375,IFRC Network Databank
+2017,Iraqi Red Crescent Society,Iraq,IRQ,Foreign Governments,Direct,2299186.554,IFRC Network Databank
+2018,Iraqi Red Crescent Society,Iraq,IRQ,Foreign Governments,Direct,3009550.056,IFRC Network Databank
+2019,Iraqi Red Crescent Society,Iraq,IRQ,Foreign Governments,Direct,39646.81022,IFRC Network Databank
+2020,Iraqi Red Crescent Society,Iraq,IRQ,Foreign Governments,Direct,123642.1725,IFRC Network Databank
+2022,Iraqi Red Crescent Society,Iraq,IRQ,Foreign Governments,Direct,1041203.519,IFRC Network Databank
+2019,Red Crescent Society of the Islamic Republic of Iran,"Iran, Islamic Republic of",IRN,Foreign Governments,Direct,789416.3816,IFRC Network Databank
+2017,Kenya Red Cross Society,Kenya,KEN,Foreign Governments,Direct,12139938.05,IFRC Network Databank
+2021,Kenya Red Cross Society,Kenya,KEN,Foreign Governments,Direct,29200109.41,IFRC Network Databank
+2023,Kenya Red Cross Society,Kenya,KEN,Foreign Governments,Direct,29103468,IFRC Network Databank
+2020,Lebanese Red Cross,Lebanon,LBN,Foreign Governments,Direct,7037598.509,IFRC Network Databank
+2021,Lebanese Red Cross,Lebanon,LBN,Foreign Governments,Direct,24742.8884,IFRC Network Databank
+2022,Lebanese Red Cross,Lebanon,LBN,Foreign Governments,Direct,120332.0415,IFRC Network Databank
+2023,Lebanese Red Cross,Lebanon,LBN,Foreign Governments,Direct,12208142.46,IFRC Network Databank
+2022,Sri Lanka Red Cross Society,Sri Lanka,LKA,Foreign Governments,Direct,353785.4824,IFRC Network Databank
+2022,Malagasy Red Cross Society,Madagascar,MDG,Foreign Governments,Direct,593902.7967,IFRC Network Databank
+2023,Myanmar Red Cross Society,Myanmar,MMR,Foreign Governments,Direct,40353.92321,IFRC Network Databank
+2024,Mongolian Red Cross Society,Mongolia,MNG,Foreign Governments,Direct,383798.9779,IFRC Network Databank
+2017,Mozambique Red Cross Society,Mozambique,MOZ,Foreign Governments,Direct,14751.70103,IFRC Network Databank
+2019,Mozambique Red Cross Society,Mozambique,MOZ,Foreign Governments,Direct,333286.3755,IFRC Network Databank
+2023,Mozambique Red Cross Society,Mozambique,MOZ,Foreign Governments,Direct,86509.73845,IFRC Network Databank
+2016,Nigerian Red Cross Society,Nigeria,NGA,Foreign Governments,Direct,24342.70632,IFRC Network Databank
+2024,Nepal Red Cross Society,Nepal,NPL,Foreign Governments,Direct,102436.1158,IFRC Network Databank
+2022,Palestine Red Crescent Society,"Palestine, State of",PSE,Foreign Governments,Direct,236069.9696,IFRC Network Databank
+2024,Palestine Red Crescent Society,"Palestine, State of",PSE,Foreign Governments,Direct,505455.9909,IFRC Network Databank
+2023,Red Cross of Chad,Chad,TCD,Foreign Governments,Direct,261593.7674,IFRC Network Databank
+2017,Ukrainian Red Cross Society,Ukraine,UKR,Foreign Governments,Direct,93955.51945,IFRC Network Databank
+2022,Ukrainian Red Cross Society,Ukraine,UKR,Foreign Governments,Direct,387189.6931,IFRC Network Databank
+2024,Zambia Red Cross Society,Zambia,ZMB,Foreign Governments,Direct,195838.728,IFRC Network Databank
+2020,Zimbabwe Red Cross Society,Zimbabwe,ZWE,Foreign Governments,Direct,11768.90309,IFRC Network Databank
+2016,Afghan Red Crescent,Afghanistan,AFG,UN,Indirect,227186.0725,IFRC Network Databank
+2018,Afghan Red Crescent,Afghanistan,AFG,UN,Indirect,88503.93701,IFRC Network Databank
+2019,Afghan Red Crescent,Afghanistan,AFG,UN,Indirect,187055.7456,IFRC Network Databank
+2020,Afghan Red Crescent,Afghanistan,AFG,UN,Indirect,165019.1693,IFRC Network Databank
+2021,Afghan Red Crescent,Afghanistan,AFG,UN,Indirect,77901.53173,IFRC Network Databank
+2024,Afghan Red Crescent,Afghanistan,AFG,UN,Indirect,69319.70471,IFRC Network Databank
+2016,Burkinabe Red Cross Society,Burkina Faso,BFA,UN,Indirect,205827.8347,IFRC Network Databank
+2017,Burkinabe Red Cross Society,Burkina Faso,BFA,UN,Indirect,232334.7212,IFRC Network Databank
+2018,Burkinabe Red Cross Society,Burkina Faso,BFA,UN,Indirect,438153.1854,IFRC Network Databank
+2019,Burkinabe Red Cross Society,Burkina Faso,BFA,UN,Indirect,2593077.078,IFRC Network Databank
+2020,Burkinabe Red Cross Society,Burkina Faso,BFA,UN,Indirect,7679872.204,IFRC Network Databank
+2021,Burkinabe Red Cross Society,Burkina Faso,BFA,UN,Indirect,3910494.53,IFRC Network Databank
+2022,Burkinabe Red Cross Society,Burkina Faso,BFA,UN,Indirect,2290528.962,IFRC Network Databank
+2023,Burkinabe Red Cross Society,Burkina Faso,BFA,UN,Indirect,1311727.323,IFRC Network Databank
+2016,Burundi Red Cross,Burundi,BDI,UN,Indirect,1625661.354,IFRC Network Databank
+2017,Burundi Red Cross,Burundi,BDI,UN,Indirect,155523.5097,IFRC Network Databank
+2018,Burundi Red Cross,Burundi,BDI,UN,Indirect,305009.7147,IFRC Network Databank
+2019,Burundi Red Cross,Burundi,BDI,UN,Indirect,1147369.692,IFRC Network Databank
+2021,Burundi Red Cross,Burundi,BDI,UN,Indirect,1001043.764,IFRC Network Databank
+2022,Burundi Red Cross,Burundi,BDI,UN,Indirect,6461215.041,IFRC Network Databank
+2023,Burundi Red Cross,Burundi,BDI,UN,Indirect,2277265.442,IFRC Network Databank
+2024,Burundi Red Cross,Burundi,BDI,UN,Indirect,230930.1533,IFRC Network Databank
+2020,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,UN,Indirect,1424228.967,IFRC Network Databank
+2024,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,UN,Indirect,2103611.584,IFRC Network Databank
+2016,Central African Red Cross Society,Central African Republic,CAF,UN,Indirect,268382.9053,IFRC Network Databank
+2017,Congolese Red Cross,Congo,COG,UN,Indirect,15779.42521,IFRC Network Databank
+2020,Cameroon Red Cross Society,Cameroon,CMR,UN,Indirect,476181.0437,IFRC Network Databank
+2022,Cameroon Red Cross Society,Cameroon,CMR,UN,Indirect,720635.8018,IFRC Network Databank
+2021,Colombian Red Cross Society,Colombia,COL,UN,Indirect,250368.709,IFRC Network Databank
+2022,Colombian Red Cross Society,Colombia,COL,UN,Indirect,1518335.603,IFRC Network Databank
+2023,Colombian Red Cross Society,Colombia,COL,UN,Indirect,774746.8002,IFRC Network Databank
+2024,Colombian Red Cross Society,Colombia,COL,UN,Indirect,108104.4861,IFRC Network Databank
+2016,Ecuadorian Red Cross,Ecuador,ECU,UN,Indirect,793386.4582,IFRC Network Databank
+2018,Ethiopian Red Cross Society,Ethiopia,ETH,UN,Indirect,54195.72553,IFRC Network Databank
+2023,Ethiopian Red Cross Society,Ethiopia,ETH,UN,Indirect,1758890.373,IFRC Network Databank
+2021,Guatemalan Red Cross,Guatemala,GTM,UN,Indirect,706040.4814,IFRC Network Databank
+2023,Honduran Red Cross,Honduras,HND,UN,Indirect,228133.5559,IFRC Network Databank
+2017,Iraqi Red Crescent Society,Iraq,IRQ,UN,Indirect,624371.8899,IFRC Network Databank
+2018,Iraqi Red Crescent Society,Iraq,IRQ,UN,Indirect,831926.5774,IFRC Network Databank
+2019,Iraqi Red Crescent Society,Iraq,IRQ,UN,Indirect,81788.08613,IFRC Network Databank
+2020,Iraqi Red Crescent Society,Iraq,IRQ,UN,Indirect,155673.0564,IFRC Network Databank
+2021,Iraqi Red Crescent Society,Iraq,IRQ,UN,Indirect,376207.8775,IFRC Network Databank
+2022,Iraqi Red Crescent Society,Iraq,IRQ,UN,Indirect,171205.6143,IFRC Network Databank
+2019,Red Crescent Society of the Islamic Republic of Iran,"Iran, Islamic Republic of",IRN,UN,Indirect,520303.8841,IFRC Network Databank
+2017,Kenya Red Cross Society,Kenya,KEN,UN,Indirect,7584160.658,IFRC Network Databank
+2021,Kenya Red Cross Society,Kenya,KEN,UN,Indirect,7818280.088,IFRC Network Databank
+2023,Kenya Red Cross Society,Kenya,KEN,UN,Indirect,16569613.8,IFRC Network Databank
+2020,Lebanese Red Cross,Lebanon,LBN,UN,Indirect,660987.2204,IFRC Network Databank
+2021,Lebanese Red Cross,Lebanon,LBN,UN,Indirect,79283.3698,IFRC Network Databank
+2022,Lebanese Red Cross,Lebanon,LBN,UN,Indirect,277878.9148,IFRC Network Databank
+2023,Lebanese Red Cross,Lebanon,LBN,UN,Indirect,27573433.5,IFRC Network Databank
+2022,Sri Lanka Red Cross Society,Sri Lanka,LKA,UN,Indirect,76570.65047,IFRC Network Databank
+2020,Lesotho Red Cross Society,Lesotho,LSO,UN,Indirect,449986.1555,IFRC Network Databank
+2018,Libyan Red Crescent,Libya,LBY,UN,Indirect,39109.31588,IFRC Network Databank
+2020,Libyan Red Crescent,Libya,LBY,UN,Indirect,584111.8211,IFRC Network Databank
+2021,Malagasy Red Cross Society,Madagascar,MDG,UN,Indirect,19049.23414,IFRC Network Databank
+2022,Malagasy Red Cross Society,Madagascar,MDG,UN,Indirect,122144.129,IFRC Network Databank
+2023,Malagasy Red Cross Society,Madagascar,MDG,UN,Indirect,161959.9332,IFRC Network Databank
+2023,Mali Red Cross,Mali,MLI,UN,Indirect,17043.96216,IFRC Network Databank
+2018,Myanmar Red Cross Society,Myanmar,MMR,UN,Indirect,790423.3562,IFRC Network Databank
+2019,Myanmar Red Cross Society,Myanmar,MMR,UN,Indirect,754372.1071,IFRC Network Databank
+2020,Myanmar Red Cross Society,Myanmar,MMR,UN,Indirect,806034.0788,IFRC Network Databank
+2023,Myanmar Red Cross Society,Myanmar,MMR,UN,Indirect,768436.2827,IFRC Network Databank
+2024,Mongolian Red Cross Society,Mongolia,MNG,UN,Indirect,27337.87621,IFRC Network Databank
+2022,Malawi Red Cross Society,Malawi,MWI,UN,Indirect,539465.8008,IFRC Network Databank
+2023,Malawi Red Cross Society,Malawi,MWI,UN,Indirect,1235092.933,IFRC Network Databank
+2024,Malawi Red Cross Society,Malawi,MWI,UN,Indirect,168204.4293,IFRC Network Databank
+2017,Mozambique Red Cross Society,Mozambique,MOZ,UN,Indirect,435852.5439,IFRC Network Databank
+2019,Mozambique Red Cross Society,Mozambique,MOZ,UN,Indirect,83491.64822,IFRC Network Databank
+2022,Mozambique Red Cross Society,Mozambique,MOZ,UN,Indirect,48615.27181,IFRC Network Databank
+2016,Nigerian Red Cross Society,Nigeria,NGA,UN,Indirect,209531.0121,IFRC Network Databank
+2018,Nigerian Red Cross Society,Nigeria,NGA,UN,Indirect,616955.7214,IFRC Network Databank
+2019,Nigerian Red Cross Society,Nigeria,NGA,UN,Indirect,69257.39585,IFRC Network Databank
+2020,Nigerian Red Cross Society,Nigeria,NGA,UN,Indirect,11471.77849,IFRC Network Databank
+2021,Nigerian Red Cross Society,Nigeria,NGA,UN,Indirect,1089809.628,IFRC Network Databank
+2024,Nepal Red Cross Society,Nepal,NPL,UN,Indirect,212146.5077,IFRC Network Databank
+2018,Pakistan Red Crescent,Pakistan,PAK,UN,Indirect,255712.2405,IFRC Network Databank
+2023,Pakistan Red Crescent,Pakistan,PAK,UN,Indirect,6701609.349,IFRC Network Databank
+2021,Palestine Red Crescent Society,"Palestine, State of",PSE,UN,Indirect,591536.105,IFRC Network Databank
+2023,Palestine Red Crescent Society,"Palestine, State of",PSE,UN,Indirect,18718.97607,IFRC Network Databank
+2023,Sudanese Red Crescent,Sudan,SDN,UN,Indirect,4800373.957,IFRC Network Databank
+2016,Senegalese Red Cross Society,Senegal,SEN,UN,Indirect,8303.72551,IFRC Network Databank
+2017,Somali Red Crescent Society,Somalia,SOM,UN,Indirect,954238.8545,IFRC Network Databank
+2018,Somali Red Crescent Society,Somalia,SOM,UN,Indirect,1485780.755,IFRC Network Databank
+2019,Somali Red Crescent Society,Somalia,SOM,UN,Indirect,1448352.787,IFRC Network Databank
+2020,Somali Red Crescent Society,Somalia,SOM,UN,Indirect,1270345.048,IFRC Network Databank
+2022,Somali Red Crescent Society,Somalia,SOM,UN,Indirect,945344.0871,IFRC Network Databank
+2023,Somali Red Crescent Society,Somalia,SOM,UN,Indirect,1488510.851,IFRC Network Databank
+2024,Somali Red Crescent Society,Somalia,SOM,UN,Indirect,1002006.814,IFRC Network Databank
+2024,Syrian Arab Red Crescent,Syrian Arab Republic,SYR,UN,Indirect,12016176.04,IFRC Network Databank
+2016,Red Cross of Chad,Chad,TCD,UN,Indirect,2464216.831,IFRC Network Databank
+2017,Red Cross of Chad,Chad,TCD,UN,Indirect,1293994.11,IFRC Network Databank
+2018,Red Cross of Chad,Chad,TCD,UN,Indirect,1300052.153,IFRC Network Databank
+2021,Red Cross of Chad,Chad,TCD,UN,Indirect,1821012.035,IFRC Network Databank
+2022,Red Cross of Chad,Chad,TCD,UN,Indirect,2424811.983,IFRC Network Databank
+2023,Red Cross of Chad,Chad,TCD,UN,Indirect,1893129.661,IFRC Network Databank
+2017,Ukrainian Red Cross Society,Ukraine,UKR,UN,Indirect,5677662.232,IFRC Network Databank
+2017,Yemen Red Crescent Society,Yemen,YEM,UN,Indirect,139986.798,IFRC Network Databank
+2021,Yemen Red Crescent Society,Yemen,YEM,UN,Indirect,197379.6499,IFRC Network Databank
+2024,Zambia Red Cross Society,Zambia,ZMB,UN,Indirect,340725.724,IFRC Network Databank
+2020,Zimbabwe Red Cross Society,Zimbabwe,ZWE,UN,Indirect,183394.0362,IFRC Network Databank
+2021,Zimbabwe Red Cross Society,Zimbabwe,ZWE,UN,Indirect,365618.1619,IFRC Network Databank
+2020,Burkinabe Red Cross Society,Burkina Faso,BFA,Pooled Funds,Indirect,4360654.952,IFRC Network Databank
+2021,Burundi Red Cross,Burundi,BDI,Pooled Funds,Indirect,1401117.068,IFRC Network Databank
+2024,Burundi Red Cross,Burundi,BDI,Pooled Funds,Indirect,131917.0926,IFRC Network Databank
+2021,Iraqi Red Crescent Society,Iraq,IRQ,Pooled Funds,Indirect,10094.0919,IFRC Network Databank
+2022,Iraqi Red Crescent Society,Iraq,IRQ,Pooled Funds,Indirect,444733.4241,IFRC Network Databank
+2017,Kenya Red Cross Society,Kenya,KEN,Pooled Funds,Indirect,9832801.869,IFRC Network Databank
+2021,Kenya Red Cross Society,Kenya,KEN,Pooled Funds,Indirect,4279735.23,IFRC Network Databank
+2021,Lebanese Red Cross,Lebanon,LBN,Pooled Funds,Indirect,171722.1007,IFRC Network Databank
+2022,Lebanese Red Cross,Lebanon,LBN,Pooled Funds,Indirect,46166.33497,IFRC Network Databank
+2023,Lebanese Red Cross,Lebanon,LBN,Pooled Funds,Indirect,2238727.88,IFRC Network Databank
+2024,Malawi Red Cross Society,Malawi,MWI,Pooled Funds,Indirect,532742.7598,IFRC Network Databank
+2016,Nigerian Red Cross Society,Nigeria,NGA,Pooled Funds,Indirect,154034.1082,IFRC Network Databank
+2022,Red Cross of Chad,Chad,TCD,Pooled Funds,Indirect,164.4495653,IFRC Network Databank
+2022,Ukrainian Red Cross Society,Ukraine,UKR,Pooled Funds,Indirect,121248.5598,IFRC Network Databank
+2019,Yemen Red Crescent Society,Yemen,YEM,Pooled Funds,Indirect,225770.7788,IFRC Network Databank
+2020,Yemen Red Crescent Society,Yemen,YEM,Pooled Funds,Indirect,601997.8701,IFRC Network Databank
+2013,Afghan Red Crescent,Afghanistan,AFG,National Societies,Indirect,2550304.273,IFRC Network Databank
+2015,Afghan Red Crescent,Afghanistan,AFG,National Societies,Indirect,3109482.49,IFRC Network Databank
+2016,Afghan Red Crescent,Afghanistan,AFG,National Societies,Indirect,524211.7552,IFRC Network Databank
+2018,Afghan Red Crescent,Afghanistan,AFG,National Societies,Indirect,1953909.398,IFRC Network Databank
+2019,Afghan Red Crescent,Afghanistan,AFG,National Societies,Indirect,1971421.815,IFRC Network Databank
+2020,Afghan Red Crescent,Afghanistan,AFG,National Societies,Indirect,2596779.553,IFRC Network Databank
+2021,Afghan Red Crescent,Afghanistan,AFG,National Societies,Indirect,1708122.538,IFRC Network Databank
+2022,Afghan Red Crescent,Afghanistan,AFG,National Societies,Indirect,3363873.468,IFRC Network Databank
+2023,Afghan Red Crescent,Afghanistan,AFG,National Societies,Indirect,11253966.61,IFRC Network Databank
+2024,Afghan Red Crescent,Afghanistan,AFG,National Societies,Indirect,6123978.421,IFRC Network Databank
+2009,Burkinabe Red Cross Society,Burkina Faso,BFA,National Societies,Indirect,1613873.051,IFRC Network Databank
+2014,Burkinabe Red Cross Society,Burkina Faso,BFA,National Societies,Indirect,3000231.694,IFRC Network Databank
+2015,Burkinabe Red Cross Society,Burkina Faso,BFA,National Societies,Indirect,2985434.896,IFRC Network Databank
+2016,Burkinabe Red Cross Society,Burkina Faso,BFA,National Societies,Indirect,3527255.101,IFRC Network Databank
+2018,Burkinabe Red Cross Society,Burkina Faso,BFA,National Societies,Indirect,6113899.172,IFRC Network Databank
+2019,Burkinabe Red Cross Society,Burkina Faso,BFA,National Societies,Indirect,11700064.4,IFRC Network Databank
+2020,Burkinabe Red Cross Society,Burkina Faso,BFA,National Societies,Indirect,3782953.142,IFRC Network Databank
+2022,Burkinabe Red Cross Society,Burkina Faso,BFA,National Societies,Indirect,15006061.59,IFRC Network Databank
+2023,Burkinabe Red Cross Society,Burkina Faso,BFA,National Societies,Indirect,21207689.48,IFRC Network Databank
+2018,Burundi Red Cross,Burundi,BDI,National Societies,Indirect,2611332.447,IFRC Network Databank
+2019,Burundi Red Cross,Burundi,BDI,National Societies,Indirect,650937.8144,IFRC Network Databank
+2021,Burundi Red Cross,Burundi,BDI,National Societies,Indirect,4772070.022,IFRC Network Databank
+2022,Burundi Red Cross,Burundi,BDI,National Societies,Indirect,1049818.791,IFRC Network Databank
+2023,Burundi Red Cross,Burundi,BDI,National Societies,Indirect,2107091.82,IFRC Network Databank
+2024,Burundi Red Cross,Burundi,BDI,National Societies,Indirect,3852007.95,IFRC Network Databank
+2009,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,National Societies,Indirect,493236.4609,IFRC Network Databank
+2014,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,National Societies,Indirect,1860326.776,IFRC Network Databank
+2020,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,National Societies,Indirect,417151.2247,IFRC Network Databank
+2021,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,National Societies,Indirect,407436.5427,IFRC Network Databank
+2022,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,National Societies,Indirect,311542.8931,IFRC Network Databank
+2024,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,National Societies,Indirect,5614162.408,IFRC Network Databank
+2014,Central African Red Cross Society,Central African Republic,CAF,National Societies,Indirect,657769.3989,IFRC Network Databank
+2016,Central African Red Cross Society,Central African Republic,CAF,National Societies,Indirect,581496.2948,IFRC Network Databank
+2017,Central African Red Cross Society,Central African Republic,CAF,National Societies,Indirect,7605.362039,IFRC Network Databank
+2017,Congolese Red Cross,Congo,COG,National Societies,Indirect,3700.619478,IFRC Network Databank
+2012,Red Cross Society of Côte d'Ivoire,Côte d'Ivoire,CIV,National Societies,Indirect,1205211.733,IFRC Network Databank
+2020,Cameroon Red Cross Society,Cameroon,CMR,National Societies,Indirect,5286.474973,IFRC Network Databank
+2021,Colombian Red Cross Society,Colombia,COL,National Societies,Indirect,7039403.72,IFRC Network Databank
+2022,Colombian Red Cross Society,Colombia,COL,National Societies,Indirect,7192282.392,IFRC Network Databank
+2023,Colombian Red Cross Society,Colombia,COL,National Societies,Indirect,9007722.871,IFRC Network Databank
+2024,Colombian Red Cross Society,Colombia,COL,National Societies,Indirect,5615577.513,IFRC Network Databank
+2022,Cuban Red Cross,Cuba,CUB,National Societies,Indirect,211590.0283,IFRC Network Databank
+2016,Red Crescent Society of Djibouti,Djibouti,DJI,National Societies,Indirect,146762.7652,IFRC Network Databank
+2016,Ecuadorian Red Cross,Ecuador,ECU,National Societies,Indirect,1675391.331,IFRC Network Databank
+2018,Ethiopian Red Cross Society,Ethiopia,ETH,National Societies,Indirect,2747059.004,IFRC Network Databank
+2021,Ethiopian Red Cross Society,Ethiopia,ETH,National Societies,Indirect,5494415.755,IFRC Network Databank
+2023,Ethiopian Red Cross Society,Ethiopia,ETH,National Societies,Indirect,10433925.43,IFRC Network Databank
+2016,Gambia Red Cross Society,Gambia,GMB,National Societies,Indirect,183187.4937,IFRC Network Databank
+2016,Guatemalan Red Cross,Guatemala,GTM,National Societies,Indirect,854327.4794,IFRC Network Databank
+2021,Guatemalan Red Cross,Guatemala,GTM,National Societies,Indirect,740561.2691,IFRC Network Databank
+2022,Guatemalan Red Cross,Guatemala,GTM,National Societies,Indirect,1176031.214,IFRC Network Databank
+2023,Guatemalan Red Cross,Guatemala,GTM,National Societies,Indirect,1911145.242,IFRC Network Databank
+2021,Honduran Red Cross,Honduras,HND,National Societies,Indirect,123650.9847,IFRC Network Databank
+2023,Honduran Red Cross,Honduras,HND,National Societies,Indirect,5648116.861,IFRC Network Databank
+2013,Haiti Red Cross Society,Haiti,HTI,National Societies,Indirect,60487.69961,IFRC Network Databank
+2014,Haiti Red Cross Society,Haiti,HTI,National Societies,Indirect,2922639.344,IFRC Network Databank
+2015,Haiti Red Cross Society,Haiti,HTI,National Societies,Indirect,761991.0631,IFRC Network Databank
+2019,Haiti Red Cross Society,Haiti,HTI,National Societies,Indirect,535876.4339,IFRC Network Databank
+2021,Haiti Red Cross Society,Haiti,HTI,National Societies,Indirect,962776.8053,IFRC Network Databank
+2018,Indonesian Red Cross Society,Indonesia,IDN,National Societies,Indirect,3358205.338,IFRC Network Databank
+2010,Iraqi Red Crescent Society,Iraq,IRQ,National Societies,Indirect,225128.033,IFRC Network Databank
+2019,Iraqi Red Crescent Society,Iraq,IRQ,National Societies,Indirect,4362027.571,IFRC Network Databank
+2020,Iraqi Red Crescent Society,Iraq,IRQ,National Societies,Indirect,2728977.636,IFRC Network Databank
+2021,Iraqi Red Crescent Society,Iraq,IRQ,National Societies,Indirect,1736086.433,IFRC Network Databank
+2022,Iraqi Red Crescent Society,Iraq,IRQ,National Societies,Indirect,1897495.548,IFRC Network Databank
+2019,Red Crescent Society of the Islamic Republic of Iran,"Iran, Islamic Republic of",IRN,National Societies,Indirect,96883.67881,IFRC Network Databank
+2012,Kenya Red Cross Society,Kenya,KEN,National Societies,Indirect,9937445.333,IFRC Network Databank
+2013,Kenya Red Cross Society,Kenya,KEN,National Societies,Indirect,9386716.659,IFRC Network Databank
+2017,Kenya Red Cross Society,Kenya,KEN,National Societies,Indirect,3487839.951,IFRC Network Databank
+2021,Kenya Red Cross Society,Kenya,KEN,National Societies,Indirect,4749154.267,IFRC Network Databank
+2023,Kenya Red Cross Society,Kenya,KEN,National Societies,Indirect,4779708.403,IFRC Network Databank
+2012,Red Cross Society of the Democratic People's Republic of Korea,"Korea, Democratic People's Republic of",PRK,National Societies,Indirect,39805.86667,IFRC Network Databank
+2020,Lebanese Red Cross,Lebanon,LBN,National Societies,Indirect,37104025.56,IFRC Network Databank
+2021,Lebanese Red Cross,Lebanon,LBN,National Societies,Indirect,4128375.274,IFRC Network Databank
+2022,Lebanese Red Cross,Lebanon,LBN,National Societies,Indirect,1999019.587,IFRC Network Databank
+2023,Lebanese Red Cross,Lebanon,LBN,National Societies,Indirect,160478674.5,IFRC Network Databank
+2009,Sri Lanka Red Cross Society,Sri Lanka,LKA,National Societies,Indirect,32579566.38,IFRC Network Databank
+2022,Sri Lanka Red Cross Society,Sri Lanka,LKA,National Societies,Indirect,115407.9816,IFRC Network Databank
+2012,Liberian Red Cross Society,Liberia,LBR,National Societies,Indirect,69031.46667,IFRC Network Databank
+2012,Lesotho Red Cross Society,Lesotho,LSO,National Societies,Indirect,398259.2,IFRC Network Databank
+2020,Lesotho Red Cross Society,Lesotho,LSO,National Societies,Indirect,45463.25879,IFRC Network Databank
+2021,Malagasy Red Cross Society,Madagascar,MDG,National Societies,Indirect,231091.9037,IFRC Network Databank
+2022,Malagasy Red Cross Society,Madagascar,MDG,National Societies,Indirect,829064.6276,IFRC Network Databank
+2023,Malagasy Red Cross Society,Madagascar,MDG,National Societies,Indirect,113437.9521,IFRC Network Databank
+2024,Malagasy Red Cross Society,Madagascar,MDG,National Societies,Indirect,1028135.15,IFRC Network Databank
+2012,Mali Red Cross,Mali,MLI,National Societies,Indirect,5376842.667,IFRC Network Databank
+2015,Mali Red Cross,Mali,MLI,National Societies,Indirect,6079167.619,IFRC Network Databank
+2016,Mali Red Cross,Mali,MLI,National Societies,Indirect,4294448.279,IFRC Network Databank
+2017,Mali Red Cross,Mali,MLI,National Societies,Indirect,5355824.109,IFRC Network Databank
+2018,Mali Red Cross,Mali,MLI,National Societies,Indirect,7764197.771,IFRC Network Databank
+2019,Mali Red Cross,Mali,MLI,National Societies,Indirect,6592544.778,IFRC Network Databank
+2020,Mali Red Cross,Mali,MLI,National Societies,Indirect,6315866.88,IFRC Network Databank
+2021,Mali Red Cross,Mali,MLI,National Societies,Indirect,6729905.908,IFRC Network Databank
+2022,Mali Red Cross,Mali,MLI,National Societies,Indirect,8213556.091,IFRC Network Databank
+2023,Mali Red Cross,Mali,MLI,National Societies,Indirect,8855218.698,IFRC Network Databank
+2018,Myanmar Red Cross Society,Myanmar,MMR,National Societies,Indirect,289914.1016,IFRC Network Databank
+2019,Myanmar Red Cross Society,Myanmar,MMR,National Societies,Indirect,4368556.047,IFRC Network Databank
+2020,Myanmar Red Cross Society,Myanmar,MMR,National Societies,Indirect,6216128.86,IFRC Network Databank
+2023,Myanmar Red Cross Society,Myanmar,MMR,National Societies,Indirect,8550843.628,IFRC Network Databank
+2024,Mongolian Red Cross Society,Mongolia,MNG,National Societies,Indirect,871950.0284,IFRC Network Databank
+2022,Malawi Red Cross Society,Malawi,MWI,National Societies,Indirect,7221061.066,IFRC Network Databank
+2023,Malawi Red Cross Society,Malawi,MWI,National Societies,Indirect,2595697.273,IFRC Network Databank
+2024,Malawi Red Cross Society,Malawi,MWI,National Societies,Indirect,2357051.675,IFRC Network Databank
+2017,Mozambique Red Cross Society,Mozambique,MOZ,National Societies,Indirect,880396.0597,IFRC Network Databank
+2019,Mozambique Red Cross Society,Mozambique,MOZ,National Societies,Indirect,2588913.262,IFRC Network Databank
+2020,Mozambique Red Cross Society,Mozambique,MOZ,National Societies,Indirect,943550.5857,IFRC Network Databank
+2021,Mozambique Red Cross Society,Mozambique,MOZ,National Societies,Indirect,608361.0503,IFRC Network Databank
+2022,Mozambique Red Cross Society,Mozambique,MOZ,National Societies,Indirect,489417.6181,IFRC Network Databank
+2023,Mozambique Red Cross Society,Mozambique,MOZ,National Societies,Indirect,1486938.23,IFRC Network Databank
+2021,Nigerian Red Cross Society,Nigeria,NGA,National Societies,Indirect,435687.0897,IFRC Network Databank
+2023,Nigerian Red Cross Society,Nigeria,NGA,National Societies,Indirect,488607.6795,IFRC Network Databank
+2024,Nepal Red Cross Society,Nepal,NPL,National Societies,Indirect,4370349.801,IFRC Network Databank
+2017,Peruvian Red Cross,Peru,PER,National Societies,Indirect,94617.65005,IFRC Network Databank
+2012,Philippine Red Cross,Philippines,PHL,National Societies,Indirect,6125338.667,IFRC Network Databank
+2012,Pakistan Red Crescent,Pakistan,PAK,National Societies,Indirect,819963.7333,IFRC Network Databank
+2017,Pakistan Red Crescent,Pakistan,PAK,National Societies,Indirect,1301570.021,IFRC Network Databank
+2018,Pakistan Red Crescent,Pakistan,PAK,National Societies,Indirect,183284.5894,IFRC Network Databank
+2019,Pakistan Red Crescent,Pakistan,PAK,National Societies,Indirect,296614.0068,IFRC Network Databank
+2022,Pakistan Red Crescent,Pakistan,PAK,National Societies,Indirect,1059278.307,IFRC Network Databank
+2019,Palestine Red Crescent Society,"Palestine, State of",PSE,National Societies,Indirect,4224300.664,IFRC Network Databank
+2021,Palestine Red Crescent Society,"Palestine, State of",PSE,National Societies,Indirect,1034990.153,IFRC Network Databank
+2022,Palestine Red Crescent Society,"Palestine, State of",PSE,National Societies,Indirect,6703558.186,IFRC Network Databank
+2023,Palestine Red Crescent Society,"Palestine, State of",PSE,National Societies,Indirect,10289643.85,IFRC Network Databank
+2024,Palestine Red Crescent Society,"Palestine, State of",PSE,National Societies,Indirect,22303654.74,IFRC Network Databank
+2023,Sudanese Red Crescent,Sudan,SDN,National Societies,Indirect,19056714.52,IFRC Network Databank
+2016,Senegalese Red Cross Society,Senegal,SEN,National Societies,Indirect,166074.5102,IFRC Network Databank
+2016,Somali Red Crescent Society,Somalia,SOM,National Societies,Indirect,6020508.578,IFRC Network Databank
+2017,Somali Red Crescent Society,Somalia,SOM,National Societies,Indirect,820300.5992,IFRC Network Databank
+2019,Somali Red Crescent Society,Somalia,SOM,National Societies,Indirect,2250581.606,IFRC Network Databank
+2020,Somali Red Crescent Society,Somalia,SOM,National Societies,Indirect,3187787.007,IFRC Network Databank
+2022,Somali Red Crescent Society,Somalia,SOM,National Societies,Indirect,7822955.902,IFRC Network Databank
+2023,Somali Red Crescent Society,Somalia,SOM,National Societies,Indirect,7464897.051,IFRC Network Databank
+2024,Somali Red Crescent Society,Somalia,SOM,National Societies,Indirect,9001919.364,IFRC Network Databank
+2016,South Sudan Red Cross,South Sudan,SSD,National Societies,Indirect,25920809.05,IFRC Network Databank
+2018,South Sudan Red Cross,South Sudan,SSD,National Societies,Indirect,3664299.008,IFRC Network Databank
+2020,South Sudan Red Cross,South Sudan,SSD,National Societies,Indirect,5974853.035,IFRC Network Databank
+2022,South Sudan Red Cross,South Sudan,SSD,National Societies,Indirect,8804099.717,IFRC Network Databank
+2023,South Sudan Red Cross,South Sudan,SSD,National Societies,Indirect,9820194.769,IFRC Network Databank
+2021,Salvadorean Red Cross Society,El Salvador,SLV,National Societies,Indirect,3642598.468,IFRC Network Databank
+2022,Salvadorean Red Cross Society,El Salvador,SLV,National Societies,Indirect,4422461.506,IFRC Network Databank
+2023,Salvadorean Red Cross Society,El Salvador,SLV,National Societies,Indirect,4686155.815,IFRC Network Databank
+2024,Salvadorean Red Cross Society,El Salvador,SLV,National Societies,Indirect,5581898.921,IFRC Network Databank
+2024,Syrian Arab Red Crescent,Syrian Arab Republic,SYR,National Societies,Indirect,31957643.38,IFRC Network Databank
+2016,Red Cross of Chad,Chad,TCD,National Societies,Indirect,2317701.756,IFRC Network Databank
+2017,Red Cross of Chad,Chad,TCD,National Societies,Indirect,61453.23449,IFRC Network Databank
+2018,Red Cross of Chad,Chad,TCD,National Societies,Indirect,809280.09,IFRC Network Databank
+2021,Red Cross of Chad,Chad,TCD,National Societies,Indirect,492833.698,IFRC Network Databank
+2022,Red Cross of Chad,Chad,TCD,National Societies,Indirect,69200.79606,IFRC Network Databank
+2016,Ukrainian Red Cross Society,Ukraine,UKR,National Societies,Indirect,12548934.12,IFRC Network Databank
+2018,Ukrainian Red Cross Society,Ukraine,UKR,National Societies,Indirect,3739029.553,IFRC Network Databank
+2020,Ukrainian Red Cross Society,Ukraine,UKR,National Societies,Indirect,4196925.453,IFRC Network Databank
+2022,Ukrainian Red Cross Society,Ukraine,UKR,National Societies,Indirect,51509501.41,IFRC Network Databank
+2009,Uganda Red Cross Society,Uganda,UGA,National Societies,Indirect,5724163.668,IFRC Network Databank
+2019,Yemen Red Crescent Society,Yemen,YEM,National Societies,Indirect,628105.2526,IFRC Network Databank
+2020,Yemen Red Crescent Society,Yemen,YEM,National Societies,Indirect,1494716.72,IFRC Network Databank
+2021,Yemen Red Crescent Society,Yemen,YEM,National Societies,Indirect,2884884.026,IFRC Network Databank
+2022,Yemen Red Crescent Society,Yemen,YEM,National Societies,Indirect,1979407.144,IFRC Network Databank
+2023,Yemen Red Crescent Society,Yemen,YEM,National Societies,Indirect,1535589.316,IFRC Network Databank
+2024,Yemen Red Crescent Society,Yemen,YEM,National Societies,Indirect,2951908.007,IFRC Network Databank
+2024,Zambia Red Cross Society,Zambia,ZMB,National Societies,Indirect,2785208.404,IFRC Network Databank
+2009,Zimbabwe Red Cross Society,Zimbabwe,ZWE,National Societies,Indirect,7101553.649,IFRC Network Databank
+2012,Zimbabwe Red Cross Society,Zimbabwe,ZWE,National Societies,Indirect,1708324.267,IFRC Network Databank
+2016,Zimbabwe Red Cross Society,Zimbabwe,ZWE,National Societies,Indirect,2921513.552,IFRC Network Databank
+2020,Zimbabwe Red Cross Society,Zimbabwe,ZWE,National Societies,Indirect,1326454.739,IFRC Network Databank
+2021,Zimbabwe Red Cross Society,Zimbabwe,ZWE,National Societies,Indirect,1162185.996,IFRC Network Databank
+2024,Zimbabwe Red Cross Society,Zimbabwe,ZWE,National Societies,Indirect,1171137.99,IFRC Network Databank
+2016,Afghan Red Crescent,Afghanistan,AFG,IFRC,Indirect,3419112.78,IFRC Network Databank
+2018,Afghan Red Crescent,Afghanistan,AFG,IFRC,Indirect,1474653.85,IFRC Network Databank
+2019,Afghan Red Crescent,Afghanistan,AFG,IFRC,Indirect,676470.1147,IFRC Network Databank
+2020,Afghan Red Crescent,Afghanistan,AFG,IFRC,Indirect,3725943.557,IFRC Network Databank
+2021,Afghan Red Crescent,Afghanistan,AFG,IFRC,Indirect,2592265.864,IFRC Network Databank
+2022,Afghan Red Crescent,Afghanistan,AFG,IFRC,Indirect,3040184.351,IFRC Network Databank
+2023,Afghan Red Crescent,Afghanistan,AFG,IFRC,Indirect,5277001.669,IFRC Network Databank
+2024,Afghan Red Crescent,Afghanistan,AFG,IFRC,Indirect,378161.272,IFRC Network Databank
+2016,Burkinabe Red Cross Society,Burkina Faso,BFA,IFRC,Indirect,322939.8031,IFRC Network Databank
+2017,Burkinabe Red Cross Society,Burkina Faso,BFA,IFRC,Indirect,280941.4035,IFRC Network Databank
+2019,Burkinabe Red Cross Society,Burkina Faso,BFA,IFRC,Indirect,1922.922117,IFRC Network Databank
+2020,Burkinabe Red Cross Society,Burkina Faso,BFA,IFRC,Indirect,680024.4941,IFRC Network Databank
+2021,Burkinabe Red Cross Society,Burkina Faso,BFA,IFRC,Indirect,757064.5514,IFRC Network Databank
+2022,Burkinabe Red Cross Society,Burkina Faso,BFA,IFRC,Indirect,656727.7679,IFRC Network Databank
+2023,Burkinabe Red Cross Society,Burkina Faso,BFA,IFRC,Indirect,653365.6093,IFRC Network Databank
+2016,Burundi Red Cross,Burundi,BDI,IFRC,Indirect,178630.5959,IFRC Network Databank
+2017,Burundi Red Cross,Burundi,BDI,IFRC,Indirect,311047.0194,IFRC Network Databank
+2018,Burundi Red Cross,Burundi,BDI,IFRC,Indirect,439603.2314,IFRC Network Databank
+2019,Burundi Red Cross,Burundi,BDI,IFRC,Indirect,484784.6649,IFRC Network Databank
+2021,Burundi Red Cross,Burundi,BDI,IFRC,Indirect,334275.7112,IFRC Network Databank
+2022,Burundi Red Cross,Burundi,BDI,IFRC,Indirect,378671.8341,IFRC Network Databank
+2023,Burundi Red Cross,Burundi,BDI,IFRC,Indirect,894652.1981,IFRC Network Databank
+2024,Burundi Red Cross,Burundi,BDI,IFRC,Indirect,1689197.047,IFRC Network Databank
+2020,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,IFRC,Indirect,679224.7071,IFRC Network Databank
+2021,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,IFRC,Indirect,941152.0788,IFRC Network Databank
+2022,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,IFRC,Indirect,2809475.228,IFRC Network Databank
+2024,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,IFRC,Indirect,10708841.57,IFRC Network Databank
+2016,Central African Red Cross Society,Central African Republic,CAF,IFRC,Indirect,313113.3895,IFRC Network Databank
+2017,Central African Red Cross Society,Central African Republic,CAF,IFRC,Indirect,434568.9042,IFRC Network Databank
+2018,Central African Red Cross Society,Central African Republic,CAF,IFRC,Indirect,196180.5911,IFRC Network Databank
+2018,Cameroon Red Cross Society,Cameroon,CMR,IFRC,Indirect,229233.0504,IFRC Network Databank
+2020,Cameroon Red Cross Society,Cameroon,CMR,IFRC,Indirect,814592.1193,IFRC Network Databank
+2021,Cameroon Red Cross Society,Cameroon,CMR,IFRC,Indirect,1228533.917,IFRC Network Databank
+2021,Colombian Red Cross Society,Colombia,COL,IFRC,Indirect,2826190.372,IFRC Network Databank
+2022,Colombian Red Cross Society,Colombia,COL,IFRC,Indirect,858095.7369,IFRC Network Databank
+2023,Colombian Red Cross Society,Colombia,COL,IFRC,Indirect,1358913.745,IFRC Network Databank
+2024,Colombian Red Cross Society,Colombia,COL,IFRC,Indirect,1165316.298,IFRC Network Databank
+2022,Cuban Red Cross,Cuba,CUB,IFRC,Indirect,905058.1334,IFRC Network Databank
+2016,Red Crescent Society of Djibouti,Djibouti,DJI,IFRC,Indirect,82893.1073,IFRC Network Databank
+2016,Ecuadorian Red Cross,Ecuador,ECU,IFRC,Indirect,2739208.202,IFRC Network Databank
+2018,Ethiopian Red Cross Society,Ethiopia,ETH,IFRC,Indirect,524802.127,IFRC Network Databank
+2021,Ethiopian Red Cross Society,Ethiopia,ETH,IFRC,Indirect,437277.8993,IFRC Network Databank
+2023,Ethiopian Red Cross Society,Ethiopia,ETH,IFRC,Indirect,1367260.991,IFRC Network Databank
+2016,Gambia Red Cross Society,Gambia,GMB,IFRC,Indirect,72634.25033,IFRC Network Databank
+2016,Guatemalan Red Cross,Guatemala,GTM,IFRC,Indirect,718472.2363,IFRC Network Databank
+2021,Guatemalan Red Cross,Guatemala,GTM,IFRC,Indirect,3034788.84,IFRC Network Databank
+2022,Guatemalan Red Cross,Guatemala,GTM,IFRC,Indirect,2921936.734,IFRC Network Databank
+2023,Guatemalan Red Cross,Guatemala,GTM,IFRC,Indirect,995484.6967,IFRC Network Databank
+2021,Honduran Red Cross,Honduras,HND,IFRC,Indirect,119469.3654,IFRC Network Databank
+2023,Honduran Red Cross,Honduras,HND,IFRC,Indirect,1134642.181,IFRC Network Databank
+2019,Haiti Red Cross Society,Haiti,HTI,IFRC,Indirect,206513.383,IFRC Network Databank
+2021,Haiti Red Cross Society,Haiti,HTI,IFRC,Indirect,746733.0416,IFRC Network Databank
+2018,Indonesian Red Cross Society,Indonesia,IDN,IFRC,Indirect,2016809.49,IFRC Network Databank
+2017,Iraqi Red Crescent Society,Iraq,IRQ,IFRC,Indirect,30780.94851,IFRC Network Databank
+2018,Iraqi Red Crescent Society,Iraq,IRQ,IFRC,Indirect,87313.63125,IFRC Network Databank
+2019,Iraqi Red Crescent Society,Iraq,IRQ,IFRC,Indirect,121053.5319,IFRC Network Databank
+2020,Iraqi Red Crescent Society,Iraq,IRQ,IFRC,Indirect,106569.7551,IFRC Network Databank
+2021,Iraqi Red Crescent Society,Iraq,IRQ,IFRC,Indirect,1627934.354,IFRC Network Databank
+2022,Iraqi Red Crescent Society,Iraq,IRQ,IFRC,Indirect,1475069.655,IFRC Network Databank
+2017,Kenya Red Cross Society,Kenya,KEN,IFRC,Indirect,9169833.452,IFRC Network Databank
+2021,Kenya Red Cross Society,Kenya,KEN,IFRC,Indirect,3539182.713,IFRC Network Databank
+2023,Kenya Red Cross Society,Kenya,KEN,IFRC,Indirect,3860585.42,IFRC Network Databank
+2020,Lebanese Red Cross,Lebanon,LBN,IFRC,Indirect,4375004.26,IFRC Network Databank
+2021,Lebanese Red Cross,Lebanon,LBN,IFRC,Indirect,692869.8031,IFRC Network Databank
+2022,Lebanese Red Cross,Lebanon,LBN,IFRC,Indirect,327752.1735,IFRC Network Databank
+2023,Lebanese Red Cross,Lebanon,LBN,IFRC,Indirect,32949163.05,IFRC Network Databank
+2022,Sri Lanka Red Cross Society,Sri Lanka,LKA,IFRC,Indirect,1814075.626,IFRC Network Databank
+2020,Lesotho Red Cross Society,Lesotho,LSO,IFRC,Indirect,1036974.441,IFRC Network Databank
+2020,Libyan Red Crescent,Libya,LBY,IFRC,Indirect,2045363.152,IFRC Network Databank
+2021,Libyan Red Crescent,Libya,LBY,IFRC,Indirect,380156.4551,IFRC Network Databank
+2021,Malagasy Red Cross Society,Madagascar,MDG,IFRC,Indirect,667198.0306,IFRC Network Databank
+2022,Malagasy Red Cross Society,Madagascar,MDG,IFRC,Indirect,854325.9663,IFRC Network Databank
+2023,Malagasy Red Cross Society,Madagascar,MDG,IFRC,Indirect,1985963.272,IFRC Network Databank
+2016,Mali Red Cross,Mali,MLI,IFRC,Indirect,181439.4478,IFRC Network Databank
+2017,Mali Red Cross,Mali,MLI,IFRC,Indirect,97422.56525,IFRC Network Databank
+2018,Mali Red Cross,Mali,MLI,IFRC,Indirect,61749.66766,IFRC Network Databank
+2019,Mali Red Cross,Mali,MLI,IFRC,Indirect,215611.7931,IFRC Network Databank
+2020,Mali Red Cross,Mali,MLI,IFRC,Indirect,315266.2407,IFRC Network Databank
+2021,Mali Red Cross,Mali,MLI,IFRC,Indirect,96603.93873,IFRC Network Databank
+2022,Mali Red Cross,Mali,MLI,IFRC,Indirect,229673.1958,IFRC Network Databank
+2023,Mali Red Cross,Mali,MLI,IFRC,Indirect,353283.2499,IFRC Network Databank
+2018,Myanmar Red Cross Society,Myanmar,MMR,IFRC,Indirect,2770309.848,IFRC Network Databank
+2019,Myanmar Red Cross Society,Myanmar,MMR,IFRC,Indirect,2293755.283,IFRC Network Databank
+2020,Myanmar Red Cross Society,Myanmar,MMR,IFRC,Indirect,2384870.075,IFRC Network Databank
+2023,Myanmar Red Cross Society,Myanmar,MMR,IFRC,Indirect,2356746.8,IFRC Network Databank
+2024,Mongolian Red Cross Society,Mongolia,MNG,IFRC,Indirect,1876356.616,IFRC Network Databank
+2022,Malawi Red Cross Society,Malawi,MWI,IFRC,Indirect,1307752.173,IFRC Network Databank
+2023,Malawi Red Cross Society,Malawi,MWI,IFRC,Indirect,1449134.112,IFRC Network Databank
+2024,Malawi Red Cross Society,Malawi,MWI,IFRC,Indirect,1581445.769,IFRC Network Databank
+2017,Mozambique Red Cross Society,Mozambique,MOZ,IFRC,Indirect,287850.1066,IFRC Network Databank
+2019,Mozambique Red Cross Society,Mozambique,MOZ,IFRC,Indirect,225017.1061,IFRC Network Databank
+2020,Mozambique Red Cross Society,Mozambique,MOZ,IFRC,Indirect,571547.3908,IFRC Network Databank
+2021,Mozambique Red Cross Society,Mozambique,MOZ,IFRC,Indirect,699894.9672,IFRC Network Databank
+2022,Mozambique Red Cross Society,Mozambique,MOZ,IFRC,Indirect,765957.8925,IFRC Network Databank
+2023,Mozambique Red Cross Society,Mozambique,MOZ,IFRC,Indirect,858007.7908,IFRC Network Databank
+2016,Nigerian Red Cross Society,Nigeria,NGA,IFRC,Indirect,128144.3508,IFRC Network Databank
+2018,Nigerian Red Cross Society,Nigeria,NGA,IFRC,Indirect,538608.2422,IFRC Network Databank
+2019,Nigerian Red Cross Society,Nigeria,NGA,IFRC,Indirect,884268.4645,IFRC Network Databank
+2020,Nigerian Red Cross Society,Nigeria,NGA,IFRC,Indirect,2060907.348,IFRC Network Databank
+2021,Nigerian Red Cross Society,Nigeria,NGA,IFRC,Indirect,737014.2232,IFRC Network Databank
+2023,Nigerian Red Cross Society,Nigeria,NGA,IFRC,Indirect,927691.7084,IFRC Network Databank
+2024,Nepal Red Cross Society,Nepal,NPL,IFRC,Indirect,1147394.662,IFRC Network Databank
+2017,Peruvian Red Cross,Peru,PER,IFRC,Indirect,153962.6282,IFRC Network Databank
+2017,Pakistan Red Crescent,Pakistan,PAK,IFRC,Indirect,1843896.618,IFRC Network Databank
+2018,Pakistan Red Crescent,Pakistan,PAK,IFRC,Indirect,828303.5075,IFRC Network Databank
+2019,Pakistan Red Crescent,Pakistan,PAK,IFRC,Indirect,835584.6247,IFRC Network Databank
+2022,Pakistan Red Crescent,Pakistan,PAK,IFRC,Indirect,2544586.781,IFRC Network Databank
+2019,Palestine Red Crescent Society,"Palestine, State of",PSE,IFRC,Indirect,384260.4146,IFRC Network Databank
+2021,Palestine Red Crescent Society,"Palestine, State of",PSE,IFRC,Indirect,925201.3129,IFRC Network Databank
+2022,Palestine Red Crescent Society,"Palestine, State of",PSE,IFRC,Indirect,549400.8589,IFRC Network Databank
+2023,Palestine Red Crescent Society,"Palestine, State of",PSE,IFRC,Indirect,858462.9939,IFRC Network Databank
+2024,Palestine Red Crescent Society,"Palestine, State of",PSE,IFRC,Indirect,12290196.48,IFRC Network Databank
+2016,Somali Red Crescent Society,Somalia,SOM,IFRC,Indirect,2051475.992,IFRC Network Databank
+2017,Somali Red Crescent Society,Somalia,SOM,IFRC,Indirect,941678.6839,IFRC Network Databank
+2018,Somali Red Crescent Society,Somalia,SOM,IFRC,Indirect,5563628.183,IFRC Network Databank
+2019,Somali Red Crescent Society,Somalia,SOM,IFRC,Indirect,1731485.208,IFRC Network Databank
+2020,Somali Red Crescent Society,Somalia,SOM,IFRC,Indirect,1248927.583,IFRC Network Databank
+2021,Somali Red Crescent Society,Somalia,SOM,IFRC,Indirect,1473434.354,IFRC Network Databank
+2022,Somali Red Crescent Society,Somalia,SOM,IFRC,Indirect,3874744.946,IFRC Network Databank
+2023,Somali Red Crescent Society,Somalia,SOM,IFRC,Indirect,4660447.412,IFRC Network Databank
+2024,Somali Red Crescent Society,Somalia,SOM,IFRC,Indirect,3230593.981,IFRC Network Databank
+2018,South Sudan Red Cross,South Sudan,SSD,IFRC,Indirect,572175.069,IFRC Network Databank
+2020,South Sudan Red Cross,South Sudan,SSD,IFRC,Indirect,575954.2066,IFRC Network Databank
+2022,South Sudan Red Cross,South Sudan,SSD,IFRC,Indirect,466354.8759,IFRC Network Databank
+2023,South Sudan Red Cross,South Sudan,SSD,IFRC,Indirect,463233.1664,IFRC Network Databank
+2021,Salvadorean Red Cross Society,El Salvador,SLV,IFRC,Indirect,1004864.333,IFRC Network Databank
+2022,Salvadorean Red Cross Society,El Salvador,SLV,IFRC,Indirect,367144.6528,IFRC Network Databank
+2023,Salvadorean Red Cross Society,El Salvador,SLV,IFRC,Indirect,119264.3294,IFRC Network Databank
+2024,Salvadorean Red Cross Society,El Salvador,SLV,IFRC,Indirect,502005.6786,IFRC Network Databank
+2024,Syrian Arab Red Crescent,Syrian Arab Republic,SYR,IFRC,Indirect,27053091.43,IFRC Network Databank
+2017,Red Cross of Chad,Chad,TCD,IFRC,Indirect,366696.4558,IFRC Network Databank
+2018,Red Cross of Chad,Chad,TCD,IFRC,Indirect,283371.5104,IFRC Network Databank
+2021,Red Cross of Chad,Chad,TCD,IFRC,Indirect,397851.2035,IFRC Network Databank
+2022,Red Cross of Chad,Chad,TCD,IFRC,Indirect,576673.3005,IFRC Network Databank
+2023,Red Cross of Chad,Chad,TCD,IFRC,Indirect,769397.8854,IFRC Network Databank
+2016,Ukrainian Red Cross Society,Ukraine,UKR,IFRC,Indirect,2073879.809,IFRC Network Databank
+2017,Ukrainian Red Cross Society,Ukraine,UKR,IFRC,Indirect,811531.4309,IFRC Network Databank
+2018,Ukrainian Red Cross Society,Ukraine,UKR,IFRC,Indirect,1303192.555,IFRC Network Databank
+2020,Ukrainian Red Cross Society,Ukraine,UKR,IFRC,Indirect,921199.148,IFRC Network Databank
+2022,Ukrainian Red Cross Society,Ukraine,UKR,IFRC,Indirect,28251286.27,IFRC Network Databank
+2017,Yemen Red Crescent Society,Yemen,YEM,IFRC,Indirect,1835120.341,IFRC Network Databank
+2019,Yemen Red Crescent Society,Yemen,YEM,IFRC,Indirect,696694.5059,IFRC Network Databank
+2020,Yemen Red Crescent Society,Yemen,YEM,IFRC,Indirect,2046306.709,IFRC Network Databank
+2021,Yemen Red Crescent Society,Yemen,YEM,IFRC,Indirect,2913475.93,IFRC Network Databank
+2022,Yemen Red Crescent Society,Yemen,YEM,IFRC,Indirect,788648.7902,IFRC Network Databank
+2023,Yemen Red Crescent Society,Yemen,YEM,IFRC,Indirect,813443.517,IFRC Network Databank
+2024,Yemen Red Crescent Society,Yemen,YEM,IFRC,Indirect,835553.6627,IFRC Network Databank
+2024,Zambia Red Cross Society,Zambia,ZMB,IFRC,Indirect,2624428.166,IFRC Network Databank
+2016,Zimbabwe Red Cross Society,Zimbabwe,ZWE,IFRC,Indirect,740035.5294,IFRC Network Databank
+2021,Zimbabwe Red Cross Society,Zimbabwe,ZWE,IFRC,Indirect,21202.407,IFRC Network Databank
+2024,Zimbabwe Red Cross Society,Zimbabwe,ZWE,IFRC,Indirect,1944127.2,IFRC Network Databank
+2016,Afghan Red Crescent,Afghanistan,AFG,ICRC,Indirect,1309081.312,IFRC Network Databank
+2018,Afghan Red Crescent,Afghanistan,AFG,ICRC,Indirect,522602.5156,IFRC Network Databank
+2019,Afghan Red Crescent,Afghanistan,AFG,ICRC,Indirect,845430.6702,IFRC Network Databank
+2020,Afghan Red Crescent,Afghanistan,AFG,ICRC,Indirect,517257.721,IFRC Network Databank
+2021,Afghan Red Crescent,Afghanistan,AFG,ICRC,Indirect,929090.8096,IFRC Network Databank
+2022,Afghan Red Crescent,Afghanistan,AFG,ICRC,Indirect,1191102.964,IFRC Network Databank
+2023,Afghan Red Crescent,Afghanistan,AFG,ICRC,Indirect,1895419.032,IFRC Network Databank
+2024,Afghan Red Crescent,Afghanistan,AFG,ICRC,Indirect,3479931.857,IFRC Network Databank
+2016,Burkinabe Red Cross Society,Burkina Faso,BFA,ICRC,Indirect,77391.1278,IFRC Network Databank
+2017,Burkinabe Red Cross Society,Burkina Faso,BFA,ICRC,Indirect,201531.4309,IFRC Network Databank
+2018,Burkinabe Red Cross Society,Burkina Faso,BFA,ICRC,Indirect,335468.8618,IFRC Network Databank
+2019,Burkinabe Red Cross Society,Burkina Faso,BFA,ICRC,Indirect,317231.8374,IFRC Network Databank
+2020,Burkinabe Red Cross Society,Burkina Faso,BFA,ICRC,Indirect,682465.3887,IFRC Network Databank
+2021,Burkinabe Red Cross Society,Burkina Faso,BFA,ICRC,Indirect,639075.4923,IFRC Network Databank
+2022,Burkinabe Red Cross Society,Burkina Faso,BFA,ICRC,Indirect,611909.5004,IFRC Network Databank
+2023,Burkinabe Red Cross Society,Burkina Faso,BFA,ICRC,Indirect,370239.2877,IFRC Network Databank
+2016,Burundi Red Cross,Burundi,BDI,ICRC,Indirect,339710.6893,IFRC Network Databank
+2017,Burundi Red Cross,Burundi,BDI,ICRC,Indirect,273988.0167,IFRC Network Databank
+2018,Burundi Red Cross,Burundi,BDI,ICRC,Indirect,500670.8252,IFRC Network Databank
+2019,Burundi Red Cross,Burundi,BDI,ICRC,Indirect,530775.81,IFRC Network Databank
+2021,Burundi Red Cross,Burundi,BDI,ICRC,Indirect,591424.5077,IFRC Network Databank
+2022,Burundi Red Cross,Burundi,BDI,ICRC,Indirect,422446.8419,IFRC Network Databank
+2023,Burundi Red Cross,Burundi,BDI,ICRC,Indirect,386392.877,IFRC Network Databank
+2024,Burundi Red Cross,Burundi,BDI,ICRC,Indirect,301557.0698,IFRC Network Databank
+2020,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,ICRC,Indirect,660569.7551,IFRC Network Databank
+2021,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,ICRC,Indirect,1188979.212,IFRC Network Databank
+2022,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,ICRC,Indirect,780882.9999,IFRC Network Databank
+2024,Red Cross of the Democratic Republic of the Congo,"Congo, the Democratic Republic of the",COD,ICRC,Indirect,1135718.342,IFRC Network Databank
+2016,Central African Red Cross Society,Central African Republic,CAF,ICRC,Indirect,238562.5825,IFRC Network Databank
+2017,Central African Red Cross Society,Central African Republic,CAF,ICRC,Indirect,130370.6713,IFRC Network Databank
+2018,Central African Red Cross Society,Central African Republic,CAF,ICRC,Indirect,140546.0681,IFRC Network Databank
+2017,Congolese Red Cross,Congo,COG,ICRC,Indirect,20053.8235,IFRC Network Databank
+2018,Cameroon Red Cross Society,Cameroon,CMR,ICRC,Indirect,158443.6036,IFRC Network Databank
+2020,Cameroon Red Cross Society,Cameroon,CMR,ICRC,Indirect,127227.902,IFRC Network Databank
+2021,Cameroon Red Cross Society,Cameroon,CMR,ICRC,Indirect,197443.1072,IFRC Network Databank
+2022,Cameroon Red Cross Society,Cameroon,CMR,ICRC,Indirect,42388.18477,IFRC Network Databank
+2021,Colombian Red Cross Society,Colombia,COL,ICRC,Indirect,604009.8468,IFRC Network Databank
+2022,Colombian Red Cross Society,Colombia,COL,ICRC,Indirect,1134619.252,IFRC Network Databank
+2023,Colombian Red Cross Society,Colombia,COL,ICRC,Indirect,1048220.367,IFRC Network Databank
+2024,Colombian Red Cross Society,Colombia,COL,ICRC,Indirect,1223175.468,IFRC Network Databank
+2022,Cuban Red Cross,Cuba,CUB,ICRC,Indirect,9027.966901,IFRC Network Databank
+2016,Red Crescent Society of Djibouti,Djibouti,DJI,ICRC,Indirect,259950.2589,IFRC Network Databank
+2016,Ecuadorian Red Cross,Ecuador,ECU,ICRC,Indirect,121825.1954,IFRC Network Databank
+2018,Ethiopian Red Cross Society,Ethiopia,ETH,ICRC,Indirect,553200.7363,IFRC Network Databank
+2021,Ethiopian Red Cross Society,Ethiopia,ETH,ICRC,Indirect,1834566.74,IFRC Network Databank
+2023,Ethiopian Red Cross Society,Ethiopia,ETH,ICRC,Indirect,2484087.924,IFRC Network Databank
+2016,Gambia Red Cross Society,Gambia,GMB,ICRC,Indirect,60330.93087,IFRC Network Databank
+2016,Guatemalan Red Cross,Guatemala,GTM,ICRC,Indirect,147830.6771,IFRC Network Databank
+2021,Guatemalan Red Cross,Guatemala,GTM,ICRC,Indirect,71136.76149,IFRC Network Databank
+2022,Guatemalan Red Cross,Guatemala,GTM,ICRC,Indirect,87765.7903,IFRC Network Databank
+2023,Guatemalan Red Cross,Guatemala,GTM,ICRC,Indirect,119771.842,IFRC Network Databank
+2023,Honduran Red Cross,Honduras,HND,ICRC,Indirect,256616.5832,IFRC Network Databank
+2019,Haiti Red Cross Society,Haiti,HTI,ICRC,Indirect,11783.05494,IFRC Network Databank
+2021,Haiti Red Cross Society,Haiti,HTI,ICRC,Indirect,19528.44639,IFRC Network Databank
+2018,Indonesian Red Cross Society,Indonesia,IDN,ICRC,Indirect,134009.6124,IFRC Network Databank
+2017,Iraqi Red Crescent Society,Iraq,IRQ,ICRC,Indirect,1949831.421,IFRC Network Databank
+2018,Iraqi Red Crescent Society,Iraq,IRQ,ICRC,Indirect,320565.4975,IFRC Network Databank
+2019,Iraqi Red Crescent Society,Iraq,IRQ,ICRC,Indirect,435908.6335,IFRC Network Databank
+2020,Iraqi Red Crescent Society,Iraq,IRQ,ICRC,Indirect,687450.4792,IFRC Network Databank
+2021,Iraqi Red Crescent Society,Iraq,IRQ,ICRC,Indirect,457215.5361,IFRC Network Databank
+2022,Iraqi Red Crescent Society,Iraq,IRQ,ICRC,Indirect,737028.3859,IFRC Network Databank
+2019,Red Crescent Society of the Islamic Republic of Iran,"Iran, Islamic Republic of",IRN,ICRC,Indirect,464531.0928,IFRC Network Databank
+2017,Kenya Red Cross Society,Kenya,KEN,ICRC,Indirect,2725627.095,IFRC Network Databank
+2021,Kenya Red Cross Society,Kenya,KEN,ICRC,Indirect,1628183.807,IFRC Network Databank
+2023,Kenya Red Cross Society,Kenya,KEN,ICRC,Indirect,1579244.296,IFRC Network Databank
+2020,Lebanese Red Cross,Lebanon,LBN,ICRC,Indirect,4823127.796,IFRC Network Databank
+2021,Lebanese Red Cross,Lebanon,LBN,ICRC,Indirect,353834.7921,IFRC Network Databank
+2022,Lebanese Red Cross,Lebanon,LBN,ICRC,Indirect,277632.7642,IFRC Network Databank
+2023,Lebanese Red Cross,Lebanon,LBN,ICRC,Indirect,24948487.48,IFRC Network Databank
+2022,Sri Lanka Red Cross Society,Sri Lanka,LKA,ICRC,Indirect,556899.5496,IFRC Network Databank
+2020,Lesotho Red Cross Society,Lesotho,LSO,ICRC,Indirect,16039.40362,IFRC Network Databank
+2018,Libyan Red Crescent,Libya,LBY,ICRC,Indirect,1013944.166,IFRC Network Databank
+2020,Libyan Red Crescent,Libya,LBY,ICRC,Indirect,1039883.919,IFRC Network Databank
+2021,Libyan Red Crescent,Libya,LBY,ICRC,Indirect,443317.2867,IFRC Network Databank
+2016,Mali Red Cross,Mali,MLI,ICRC,Indirect,267911.8871,IFRC Network Databank
+2017,Mali Red Cross,Mali,MLI,ICRC,Indirect,351857.4185,IFRC Network Databank
+2018,Mali Red Cross,Mali,MLI,ICRC,Indirect,402893.9564,IFRC Network Databank
+2019,Mali Red Cross,Mali,MLI,ICRC,Indirect,442241.8998,IFRC Network Databank
+2020,Mali Red Cross,Mali,MLI,ICRC,Indirect,506645.3674,IFRC Network Databank
+2021,Mali Red Cross,Mali,MLI,ICRC,Indirect,461562.3632,IFRC Network Databank
+2022,Mali Red Cross,Mali,MLI,ICRC,Indirect,359534.9324,IFRC Network Databank
+2023,Mali Red Cross,Mali,MLI,ICRC,Indirect,425603.7841,IFRC Network Databank
+2018,Myanmar Red Cross Society,Myanmar,MMR,ICRC,Indirect,1266924.021,IFRC Network Databank
+2019,Myanmar Red Cross Society,Myanmar,MMR,ICRC,Indirect,1559466.693,IFRC Network Databank
+2020,Myanmar Red Cross Society,Myanmar,MMR,ICRC,Indirect,1672355.698,IFRC Network Databank
+2023,Myanmar Red Cross Society,Myanmar,MMR,ICRC,Indirect,1651206.455,IFRC Network Databank
+2024,Mongolian Red Cross Society,Mongolia,MNG,ICRC,Indirect,12361.15843,IFRC Network Databank
+2022,Malawi Red Cross Society,Malawi,MWI,ICRC,Indirect,391561.7471,IFRC Network Databank
+2023,Malawi Red Cross Society,Malawi,MWI,ICRC,Indirect,14369.50473,IFRC Network Databank
+2024,Malawi Red Cross Society,Malawi,MWI,ICRC,Indirect,29254.96877,IFRC Network Databank
+2017,Mozambique Red Cross Society,Mozambique,MOZ,ICRC,Indirect,61331.36996,IFRC Network Databank
+2019,Mozambique Red Cross Society,Mozambique,MOZ,ICRC,Indirect,44340.91366,IFRC Network Databank
+2020,Mozambique Red Cross Society,Mozambique,MOZ,ICRC,Indirect,54787.00745,IFRC Network Databank
+2021,Mozambique Red Cross Society,Mozambique,MOZ,ICRC,Indirect,113572.2101,IFRC Network Databank
+2022,Mozambique Red Cross Society,Mozambique,MOZ,ICRC,Indirect,123198.9107,IFRC Network Databank
+2023,Mozambique Red Cross Society,Mozambique,MOZ,ICRC,Indirect,239218.6978,IFRC Network Databank
+2016,Nigerian Red Cross Society,Nigeria,NGA,ICRC,Indirect,593961.0192,IFRC Network Databank
+2018,Nigerian Red Cross Society,Nigeria,NGA,ICRC,Indirect,504384.9064,IFRC Network Databank
+2019,Nigerian Red Cross Society,Nigeria,NGA,ICRC,Indirect,233376.937,IFRC Network Databank
+2020,Nigerian Red Cross Society,Nigeria,NGA,ICRC,Indirect,250202.3429,IFRC Network Databank
+2021,Nigerian Red Cross Society,Nigeria,NGA,ICRC,Indirect,48708.97155,IFRC Network Databank
+2023,Nigerian Red Cross Society,Nigeria,NGA,ICRC,Indirect,618914.8581,IFRC Network Databank
+2024,Nepal Red Cross Society,Nepal,NPL,ICRC,Indirect,35284.49744,IFRC Network Databank
+2017,Peruvian Red Cross,Peru,PER,ICRC,Indirect,42842.4901,IFRC Network Databank
+2017,Pakistan Red Crescent,Pakistan,PAK,ICRC,Indirect,2188257.337,IFRC Network Databank
+2018,Pakistan Red Crescent,Pakistan,PAK,ICRC,Indirect,1495333.879,IFRC Network Databank
+2019,Pakistan Red Crescent,Pakistan,PAK,ICRC,Indirect,1188978.668,IFRC Network Databank
+2022,Pakistan Red Crescent,Pakistan,PAK,ICRC,Indirect,882956.9498,IFRC Network Databank
+2019,Palestine Red Crescent Society,"Palestine, State of",PSE,ICRC,Indirect,5218036.828,IFRC Network Databank
+2021,Palestine Red Crescent Society,"Palestine, State of",PSE,ICRC,Indirect,6078997.812,IFRC Network Databank
+2022,Palestine Red Crescent Society,"Palestine, State of",PSE,ICRC,Indirect,5372532.733,IFRC Network Databank
+2023,Palestine Red Crescent Society,"Palestine, State of",PSE,ICRC,Indirect,4303656.093,IFRC Network Databank
+2024,Palestine Red Crescent Society,"Palestine, State of",PSE,ICRC,Indirect,3155798.978,IFRC Network Databank
+2016,Senegalese Red Cross Society,Senegal,SEN,ICRC,Indirect,208140.2903,IFRC Network Databank
+2017,Senegalese Red Cross Society,Senegal,SEN,ICRC,Indirect,303654.9203,IFRC Network Databank
+2018,Senegalese Red Cross Society,Senegal,SEN,ICRC,Indirect,263523.8777,IFRC Network Databank
+2016,Somali Red Crescent Society,Somalia,SOM,ICRC,Indirect,3486849.051,IFRC Network Databank
+2017,Somali Red Crescent Society,Somalia,SOM,ICRC,Indirect,416743920,IFRC Network Databank
+2018,Somali Red Crescent Society,Somalia,SOM,ICRC,Indirect,5146059.924,IFRC Network Databank
+2019,Somali Red Crescent Society,Somalia,SOM,ICRC,Indirect,6641341.316,IFRC Network Databank
+2020,Somali Red Crescent Society,Somalia,SOM,ICRC,Indirect,7723684.771,IFRC Network Databank
+2021,Somali Red Crescent Society,Somalia,SOM,ICRC,Indirect,4488032.823,IFRC Network Databank
+2022,Somali Red Crescent Society,Somalia,SOM,ICRC,Indirect,8543451.346,IFRC Network Databank
+2023,Somali Red Crescent Society,Somalia,SOM,ICRC,Indirect,7527939.9,IFRC Network Databank
+2024,Somali Red Crescent Society,Somalia,SOM,ICRC,Indirect,7342851.789,IFRC Network Databank
+2016,South Sudan Red Cross,South Sudan,SSD,ICRC,Indirect,5198137.245,IFRC Network Databank
+2018,South Sudan Red Cross,South Sudan,SSD,ICRC,Indirect,2288882.299,IFRC Network Databank
+2020,South Sudan Red Cross,South Sudan,SSD,ICRC,Indirect,2501715.655,IFRC Network Databank
+2022,South Sudan Red Cross,South Sudan,SSD,ICRC,Indirect,2399296.114,IFRC Network Databank
+2023,South Sudan Red Cross,South Sudan,SSD,ICRC,Indirect,2119084.029,IFRC Network Databank
+2021,Salvadorean Red Cross Society,El Salvador,SLV,ICRC,Indirect,75012.03501,IFRC Network Databank
+2022,Salvadorean Red Cross Society,El Salvador,SLV,ICRC,Indirect,61313.50162,IFRC Network Databank
+2023,Salvadorean Red Cross Society,El Salvador,SLV,ICRC,Indirect,47204.22927,IFRC Network Databank
+2024,Syrian Arab Red Crescent,Syrian Arab Republic,SYR,ICRC,Indirect,10703957.98,IFRC Network Databank
+2016,Red Cross of Chad,Chad,TCD,ICRC,Indirect,124251.345,IFRC Network Databank
+2017,Red Cross of Chad,Chad,TCD,ICRC,Indirect,139751.1933,IFRC Network Databank
+2018,Red Cross of Chad,Chad,TCD,ICRC,Indirect,276540.5461,IFRC Network Databank
+2021,Red Cross of Chad,Chad,TCD,ICRC,Indirect,138317.2867,IFRC Network Databank
+2022,Red Cross of Chad,Chad,TCD,ICRC,Indirect,310661.9881,IFRC Network Databank
+2023,Red Cross of Chad,Chad,TCD,ICRC,Indirect,212166.9449,IFRC Network Databank
+2016,Ukrainian Red Cross Society,Ukraine,UKR,ICRC,Indirect,527249.0103,IFRC Network Databank
+2017,Ukrainian Red Cross Society,Ukraine,UKR,ICRC,Indirect,886709.6578,IFRC Network Databank
+2018,Ukrainian Red Cross Society,Ukraine,UKR,ICRC,Indirect,495174.3532,IFRC Network Databank
+2020,Ukrainian Red Cross Society,Ukraine,UKR,ICRC,Indirect,447259.8509,IFRC Network Databank
+2022,Ukrainian Red Cross Society,Ukraine,UKR,ICRC,Indirect,13172410.18,IFRC Network Databank
+2017,Yemen Red Crescent Society,Yemen,YEM,ICRC,Indirect,112623.1339,IFRC Network Databank
+2019,Yemen Red Crescent Society,Yemen,YEM,ICRC,Indirect,82359.6297,IFRC Network Databank
+2020,Yemen Red Crescent Society,Yemen,YEM,ICRC,Indirect,570951.0117,IFRC Network Databank
+2021,Yemen Red Crescent Society,Yemen,YEM,ICRC,Indirect,1015739.606,IFRC Network Databank
+2022,Yemen Red Crescent Society,Yemen,YEM,ICRC,Indirect,1022735.938,IFRC Network Databank
+2023,Yemen Red Crescent Society,Yemen,YEM,ICRC,Indirect,1463590.428,IFRC Network Databank
+2024,Yemen Red Crescent Society,Yemen,YEM,ICRC,Indirect,1400531.516,IFRC Network Databank
+2024,Zambia Red Cross Society,Zambia,ZMB,ICRC,Indirect,41962.52129,IFRC Network Databank
+2016,Zimbabwe Red Cross Society,Zimbabwe,ZWE,ICRC,Indirect,81613.03421,IFRC Network Databank
+2020,Zimbabwe Red Cross Society,Zimbabwe,ZWE,ICRC,Indirect,47339.72311,IFRC Network Databank
+2021,Zimbabwe Red Cross Society,Zimbabwe,ZWE,ICRC,Indirect,103943.1072,IFRC Network Databank
+2024,Zimbabwe Red Cross Society,Zimbabwe,ZWE,ICRC,Indirect,134238.5009,IFRC Network Databank

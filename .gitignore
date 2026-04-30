@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# Data that is not publicly accessible
+input/cbpf/cbpf_subgrants.xlsx
+
 # Session Data files
 .RData
 .RDataTmp

@@ -1,0 +1,49 @@
+﻿recipient_org_type,master_recipient_org_type,source,lnha_flag
+Other: Unknown,Unknown,fts,FALSE
+Private Organisations: International,Private Organisations: International,"fts, wfp",FALSE
+Governments: National,Governments: Local/National,"fts, wfp",TRUE
+Pooled Funds: Other UN,Pooled Funds: Other UN,fts,FALSE
+NGOs: National,NGOs: National,"fts, unhcr, wfp",TRUE
+NGOs: Local,NGOs: Local,"fts, unhcr, wfp",TRUE
+NGOs: International,NGOs: International,"fts, wfp",FALSE
+NGOs: Internationally Affiliated,NGOs: International,"fts, wfp",FALSE
+Multilateral: Other,Multilateral: Other,"fts, unhcr, wfp",FALSE
+Pooled Funds: Country,Pooled Funds: Country,fts,FALSE
+Pooled Funds: Other,Pooled Funds: Other,fts,FALSE
+Private Organisations: Local/National,Private Organisations: Local/National,fts,TRUE
+Other: Multiple Organisations,Other: Multiple Organisations,fts,FALSE
+Other,Other,fts,FALSE
+Multilateral: UN,Multilateral: UN,"fts, unhcr",FALSE
+Red Cross: International,RCRC: International,fts; cbpf_alloc,FALSE
+Red Cross: National,RCRC: National,fts; cbpf_alloc,TRUE
+Governments: Local,Governments: Local/National,fts,TRUE
+Pooled Funds: Regional,Pooled Funds: Regional,fts,FALSE
+Governments: International,Governments: International,fts,FALSE
+Others / Government,Governments: Local/National,cbpf_subgrants,TRUE
+Red Cross/Red Crescent Society,RCRC: National,cbpf_subgrants,TRUE
+International NGO,NGOs: International,cbpf_subgrants; cbpf_alloc,FALSE
+Private Contractor,Other,cbpf_subgrants,FALSE
+(Non) National NGO,NGOs: International,cbpf_subgrants,FALSE
+UN and IOM,Multilateral: UN,cbpf_subgrants,FALSE
+National NGO,NGOs: National,cbpf_subgrants; cbpf_alloc,TRUE
+UN Agency,Multilateral: UN,cbpf_alloc,FALSE
+Others,Other,cbpf_alloc,FALSE
+National NGO,NGOs: National,unicef,TRUE
+FINANCIAL SERVICE PROVIDER,Other,unicef,FALSE
+International NGO,NGOs: International,unicef,FALSE
+Government,Governments: Local/National,unicef,TRUE
+RED CROSS/RED CRESCENT NATIONAL SOCIETIES,RCRC: National,unicef,TRUE
+Academic Institution,Other,unicef,FALSE
+Community based organization,NGOs: Local,unicef,TRUE
+Bilateral / Multilateral,Other,unicef,FALSE
+NGO: International,NGOs: International,"unhcr, wfp",FALSE
+Other: National,Other: National,"unhcr, wfp",TRUE
+Governments: Local/National,Governments: Local/National,unhcr,TRUE
+Red Cross: National,RCRC: National,"unhcr, wfp",TRUE
+Other / Unknown,Other,unhcr,FALSE
+Red Cross: International,RCRC: International,"unhcr, wfp",FALSE
+Government: National,Government: Local/National,wfp,TRUE
+Unknown,Unknown,wfp,FALSE
+Other: Local,Other: Local,wfp,TRUE
+Private Organisations: National,Private Organisations: Local/National,wfp,TRUE
+Multilateral: Development Bank,Multilateral: Other,wfp,FALSE

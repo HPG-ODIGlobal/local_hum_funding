@@ -16,7 +16,7 @@ Links to the various sources are included [below](#data-sources). The cleaning o
 
 ## Data sources
 
-The methodology section of the corresponding ODI HPG 'The state of international humanitarian funding to local and national actors' includes more detail for each source on what additional, manual steps were required for each dataset so that they could be merged into one global dataset.
+The methodology section of the corresponding 2026 ODI HPG report 'The state of international humanitarian funding to local and national actors' includes more detail for each source on what additional, manual steps were required for each dataset so that they could be merged into one global dataset.
 
 ### FTS
 
@@ -27,7 +27,7 @@ The FTS data included in this repository only includes a reduced amount of colum
 
 Funding data on allocations from country-based pooled funds (CBPFs) was downloaded from the [CBPF Data Explorer](https://cbpf.data.unocha.org/dataexplorer.html).
 
-Funding data on sub-grants from implementers of CBPF projects to other partner organisations is currently not publicly available with granular, project-level breakdown. The CBPF office however did share this data with the authors and it is included in the aggregate analysis results in the [output](https://github.com/niklasrie/local_hum_funding/tree/main/output) folder, though ommitted from the granular [master dataset](https://github.com/niklasrie/local_hum_funding/blob/main/output/master_local_funding_flows.csv) and the [data inputs](https://github.com/niklasrie/local_hum_funding/tree/main/input). **This means that there currently is a discrepancy when adding up the values from the disaggregated master local funding flow dataset to reproduce the aggregate results in the output folder.**
+Funding data on sub-grants from implementers of CBPF projects to other partner organisations is currently not publicly available with granular, project-level breakdown. The CBPF office however did share this data with the authors and it is included in the aggregate analysis results in the [output](https://github.com/niklasrie/local_hum_funding/tree/main/output) folder, though ommitted from the granular [master dataset](https://github.com/niklasrie/local_hum_funding/blob/main/output/master_local_funding_flows.csv) and the [data inputs](https://github.com/niklasrie/local_hum_funding/tree/main/input). **This means that there currently is a discrepancy when adding up the values from the disaggregated master local funding flow dataset to reproduce some of the aggregate results in the output folder.**
 
 ### UNICEF
 
@@ -53,17 +53,17 @@ Data on funding to Red Cross and Red Crescent (RCRC) Societies is based on incom
 
 The automated merging of funding data takes the following steps for each source dataset:
 1. Mapping the source dataset's columns onto the structure of the masterdaset
-2. Adding shared columns to indicate whether funding is received by LNAs or not, and whether funding is direct or indirect
-2. Standardising country names, and classifications of donor and recipient organisations (including the identification of LNAs)
+2. Adding shared columns to indicate whether funding is received by LNAs or not, and whether funding is direct (usually meaning from government or private donors) or indirect (through intermediaries, e.g., UN, pooled funds or NGOs)
+2. Standardising country names, and classifications of donor and recipient organisations by type
 4. If necessary, performing dataset-specific changes to align with master dataset structure (e.g., adjusting USD values for inflation)
 5. Merging the 'aligned' source dataset into the master dataset
 6. If necessary, removing double-counting of funding across the pre-existing and newly added funding data
 
-Note that the avoidance of double-counting means here that the same funding flow is not counted twice (or more) from different sources. The same funding might however be included multiple times (e.g., first from a government donor to a UN agency, and then from that UN agency to an NGO). Given the limited amount of data shared publicly by intermediaries (such as UN agencies), it is not currently possible to track funding through the humanitarian system from one actor to another. The exception are CBPFs, even though they also currently do not make data on sub-grants within CBPF projects public [see above](#country-based-pooled-funds).
+Note that the removal of double-counting means here that the same funding flow is not counted twice (or more) from different sources. The same funding might however be included multiple times at different steps in the funding chain (e.g., first when provided from a government donor to a UN agency, and again when provided from that UN agency to an NGO). Given the limited amount of data shared publicly by intermediaries, it is not currently possible to track funding through the humanitarian system from one actor to another. The exception to this are CBPFs, even though they also currently do not publish sub-grants data within CBPF projects [see above](#country-based-pooled-funds).
 
 ## Analysis process
 
-The [merging process](#merging-of-funding-datasets) yields a granular and global dataset of humanitarian funding flows by country, donor and recipient organisation. This dataset can then be used to analyse how much international humanitarian funding reached LNAs according to publicly available data. Note that data availability by year varies by source, with only 2022 to 2024 covering data from all sources listed above.
+The [merging process](#merging-of-funding-datasets) yields a granular and global dataset of humanitarian funding flows by country, donor and recipient organisation. This dataset can then be used to analyse how much international humanitarian funding reached LNAs according to publicly available data. Note that the data availability by year varies by source, with only 2022 to 2024 including data from all sources listed above.
 
 The [analysis script](https://github.com/niklasrie/local_hum_funding/blob/main/code/2_loc_analysis.R) in this repository performs four different analyses:
 1. The volumes of international humanitarian funding received by different types of LNAs. This is a straightforward sum by each type and year.

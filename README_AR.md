@@ -1,1 +1,3 @@
-# Translation to follow / ستتبع الترجمة
+<div dir="rtl">
+# ستتبع الترجمة
+</div>
